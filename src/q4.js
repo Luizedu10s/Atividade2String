@@ -12,4 +12,3 @@ RecortarStr(str, 0, 5);
 Resultado: "01234"
 
 */
-
