@@ -12,3 +12,5 @@ function AbreviarNome(str){
     // RETORNA O NOME ABREVIADO
     return nomeAbreviado;
 }
+
+export default AbreviarNome;

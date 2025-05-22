@@ -1,6 +1,7 @@
  // Retorna uma parte da string entre os índices InicioStr e FimStr
 let RecortarStr = (Str, InicioStr, FimStr) => { Str.slice(InicioStr, FimStr); }
 
+exports.default = RecortarStr; // Exporta a função RecortarStr
 /*
 
 A arrow-function RecortarStr() recebe uma string e dois índices (InicioStr e FimStr) como parâmetros.

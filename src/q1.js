@@ -6,3 +6,5 @@ function verifica(variavel){
         return false; // SE NÃO FOR STRING RETORNA FALSE
     }
 }
+
+exports.default = verifica; // EXPORTA A FUNÇÃO VERIFICA

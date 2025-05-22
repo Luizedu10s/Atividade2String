@@ -6,3 +6,5 @@ function VerificarVazia(variavel){
         return false; // SE A STRING NÃO ESTIVER VAZIA RETORNA FALSE
     }
 }
+
+exports.default = VerificarVazia; // EXPORTA A FUNÇÃO VERIFICARVAZIA
